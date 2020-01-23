@@ -1,6 +1,10 @@
 ---
 code: BCT
-title: Bachelor's degree in Computer Engineering
+title: Computer Engineering
+flex: 6
+image: be-computer.jpg
+info:
+    duration: 4 Years
 ---
 ## Intro
 Introduction about the course goes here...
@@ -89,8 +93,8 @@ Here is the list of courses to be studies under the Bachelor's degree in Compute
 ##### Elective I Choices
 - <n-link to="/advanced-java-programming">Advanced Java Programming</n-link>
 - <n-link to="/data-mining">Data Mining</n-link>
-- Embedded Systems Design Using Arm Technology
-- Image Processing and Pattern Recognition
+- <n-link to="/embedded-systems-design-using-arm-technology">Embedded Systems Design Using Arm Technology</n-link>
+- <n-link to="/image-processing-and-pattern-recognition">Image Processing and Pattern Recognition</n-link>
 - <n-link to="/web-technologies-and-applications">Web Technologies and Applications</n-link>
 - Operating System
 - Radar Technology

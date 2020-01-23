@@ -1,7 +1,10 @@
 <template>
-	<div class="container">
-		<h1 class="text-center pt-5">{{ nameTitle }}</h1>
-		<component :is="dynamicComponent" />
+	<div class="pb-4">		
+		<b-img fluid :src="programImg" :alt="program.title" class="shadow" />
+		<div class="container pt-2">
+			<h1 class="text-center pt-5"><u>{{ nameTitle }}</u></h1>
+			<component :is="dynamicComponent" />
+		</div>
 	</div>
 </template>
 
@@ -9,7 +12,7 @@
 export default {
 	head() {
 		return {
-			title: this.nameTitle
+			title: `${this.program.code} - ${this.nameTitle}`
 		}
 	},
 	data() {
@@ -20,11 +23,14 @@ export default {
 	},
 	computed: {
 		nameTitle() {
-			return `${this.program.code} - ${this.program.title}`;
+			return `Bachelor's Degree in ${this.program.title}`;
+		},
+		programImg() {
+			return require(`@/assets/img/${this.program.image}`);
 		}
 	},
     created () {
-		const post = require(`~/contents/programs/${this.$route.params.program}.md`)
+		const post = require(`~/contents/programs/${this.$route.params.program.toUpperCase()}.md`)
 		const newData = {};
 		for (const attr of Object.keys(post.attributes)) newData[attr] = post.attributes[attr];
 		// newData.html = post.html;

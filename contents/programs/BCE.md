@@ -1,6 +1,10 @@
 ---
 code: BCE
-title: Bachelor's degree in Civil Engineering
+title: Civil Engineering
+flex: 6
+image: be-civil.jpg
+info:
+    duration: 4 Years
 ---
 ## Intro
 Introduction about the course goes here...

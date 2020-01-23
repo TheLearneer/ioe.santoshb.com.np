@@ -1,13 +1,18 @@
 <template>
-	<div class="container">
-		<div v-for="program in programs" :key="program.code" class="pt-3 pb-3">
-			<nuxt-link :to="`/programs/${program.code}`">{{ program.code }} - {{ program.title }}</nuxt-link>
-		</div>
+	<div class="container pt-5">
+		<b-row>
+			<b-col v-for="program in programs" :key="program.code" class="pt-3 pb-5" :lg="program.flex" sm="12">
+				<ProgramCard :program="program" />
+			</b-col>
+		</b-row>
 	</div>
 </template>
 
 <script>
 export default {
+	components: {
+		ProgramCard: () => import('@/components/ProgramCard')
+	},
 	async asyncData() {
 		const resolve = require.context('@/contents/programs/', true, /\.md$/);
 		let imports = resolve.keys().map(key => {
