@@ -41,10 +41,10 @@ Also to develop sketching and drafting skills to facilitate communication
 	15. Angle between two non-intersecting (skew) lines
 5. **Multi view (orthographic) projections**
 	1. Orthographic Projections
-		- First and third angle projection
-		- Principal view: methods for obtaining orthographic views, Projection of lines, angles and plane surfaces, analysis in three views, projection of curved lines and surfaces, object orientation and selection of views for best representation, full and hidden lines
-		- Orthographic drawings: making an orthographic drawing, visualizing object (pictorial view) from the given views
-		- Interpretation of adjacent areas, true-length lines, representation of holes, conventional practices
+		1. First and third angle projection
+		2. Principal view: methods for obtaining orthographic views, Projection of lines, angles and plane surfaces, analysis in three views, projection of curved lines and surfaces, object orientation and selection of views for best representation, full and hidden lines
+		3. Orthographic drawings: making an orthographic drawing, visualizing object (pictorial view) from the given views
+		4. Interpretation of adjacent areas, true-length lines, representation of holes, conventional practices
 	2. Sectional Views: Full, half, broken revolved, removed (detail) sections, phantom of hidden section, Auziliary sectional views, specifying cutting planes for sections, conventions for hidden lines, holes, ribs, spokes
 	3. Auxiliary views: Basic concept and use, drawing methods and types, and boundaries, line of intersection between two planes, true size of dihedral angles, true size and shape of plane surfaces
 6. **Developments and Intersections**

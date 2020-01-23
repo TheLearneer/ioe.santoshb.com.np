@@ -10,39 +10,39 @@ Also to make familiar with personnel management, case study, management informat
 ## Syllabus
 1. **Introduction**
 	1. Organization
-		- System approach applied to Organization
-		- Necessity of Organization
-		- Principles of Organization
-		- Formal and Informal Organizations
+		1. System approach applied to Organization
+		2. Necessity of Organization
+		3. Principles of Organization
+		4. Formal and Informal Organizations
 	2. Management
-		- Functions of Management
-		- Levels of Management
-		- Mangerial Skills
-		- Importance of Management
-		- Models of Management
+		1. Functions of Management
+		2. Levels of Management
+		3. Mangerial Skills
+		4. Importance of Management
+		5. Models of Management
 	3. Theory of Management
-		- Scientific Management Approach
-		- Administrative Management Approach
-		- Benavioral Management Approach
-		- Modern Management Theories
+		1. Scientific Management Approach
+		2. Administrative Management Approach
+		3. Benavioral Management Approach
+		4. Modern Management Theories
 	4. Forms of Ownership
-		- Single Ownership - Advantages and limitations
-		- Partnership - Types of Partners - Advantages and limitations
-		- Joint Stock Company - Formation of Joint Stock Company - Advantages and limitations
-		- Co-operative Societies - Types of Co-operative - Advantages and limitations
-		- Public corporations - Advantages and limitations
+		1. Single Ownership - Advantages and limitations
+		2. Partnership - Types of Partners - Advantages and limitations
+		3. Joint Stock Company - Formation of Joint Stock Company - Advantages and limitations
+		4. Co-operative Societies - Types of Co-operative - Advantages and limitations
+		5. Public corporations - Advantages and limitations
 	5. Organizational Structure
-		- Line Organization - Advantages and disadvantages
-		- Functional Organization - Advantages and disadvantages
-		- Line and Staff Organization - Advantages and disadvantages
-		- Committee Organization - Advantages and disadvantages
+		1. Line Organization - Advantages and disadvantages
+		2. Functional Organization - Advantages and disadvantages
+		3. Line and Staff Organization - Advantages and disadvantages
+		4. Committee Organization - Advantages and disadvantages
 	6. Purchasing and Marketing Management
-		- Purchasing - Introduction
-		- Functions of Purchasing Department
-		- Methods of Purchasing
-		- Marketing - Introduction
-		- Functions of Marketing
-		- Advertising
+		1. Purchasing - Introduction
+		2. Functions of Purchasing Department
+		3. Methods of Purchasing
+		4. Marketing - Introduction
+		5. Functions of Marketing
+		6. Advertising
 2. **Personal Management**
 	1. Introduction
 	2. Functions of Personal Management
@@ -54,30 +54,30 @@ Also to make familiar with personnel management, case study, management informat
 	8. Wages and Incentives
 3. **Motivation, Leadership and Entrepreneurship**
 	1. Motivation
-		- Human needs
-		- Maslow's Hierarchy of needs
-		- Motivation - Introduction
-		- Types of Motivation
-		- Attitude Motivation; Group Motivation; Executive Motivation
-		- Techniques of Motivation
-		- Motivation Theories
-			- McGregor's Theory X-Y
-			- Fear and Punishment Theory
-			- Alderffer's ERG Theory
-			- MacClelland's Theory of learned needs
-			- Herzberg's Hygiene Maintenance Theory
-			- Vroom's Expectancy/Valency Theory
+		1. Human needs
+		2. Maslow's Hierarchy of needs
+		3. Motivation - Introduction
+		4. Types of Motivation
+		5. Attitude Motivation; Group Motivation; Executive Motivation
+		6. Techniques of Motivation
+		7. Motivation Theories
+			1. McGregor's Theory X-Y
+			2. Fear and Punishment Theory
+			3. Alderffer's ERG Theory
+			4. MacClelland's Theory of learned needs
+			5. Herzberg's Hygiene Maintenance Theory
+			6. Vroom's Expectancy/Valency Theory
 	2. Leadership - Introduction
-		- Qualities of a good Leader
-		- Leadershipe Style
-		- Blakes and Mouton's Managerial Grid
-		- Leadership Approach
-		- Leadershipe Theories
+		1. Qualities of a good Leader
+		2. Leadershipe Style
+		3. Blakes and Mouton's Managerial Grid
+		4. Leadership Approach
+		5. Leadershipe Theories
 	3. Entrepreneruship - Introduction
-		- Entrepreneruship Development
-		- Entrepreneurial Characteristics
-		- Needs for Promotion of Entrepreneurship
-		- Steps for establishing small scale unit
+		1. Entrepreneruship Development
+		2. Entrepreneurial Characteristics
+		3. Needs for Promotion of Entrepreneurship
+		4. Steps for establishing small scale unit
 4. **Case Studies**
 	1. Introduction
 	2. Objetives of case study

@@ -11,9 +11,9 @@ To provide students a sound knowledge of calculus and analytic geometry to apply
 	1. Introduction
 	2. Higher order derivatives
 	3. Mean value theorem
-		- Rolle's Theorem
-		- Lagrange's mean value theorem
-		- Cauchy's mean value theorem
+		1. Rolle's Theorem
+		2. Lagrange's mean value theorem
+		3. Cauchy's mean value theorem
 	4. Power series of single valued function
 	5. Indeterminate forms; L'Hospital rule
 	6. Asymptotes to Cartesian and polar curves

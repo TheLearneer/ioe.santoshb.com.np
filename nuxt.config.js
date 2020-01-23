@@ -37,7 +37,8 @@ export default {
     }
   },
   generate: {
-	routes: getRoutes()
+	routes: getRoutes(),
+	fallback: true
   },
   // Sitemap config...
   sitemap: {

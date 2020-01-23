@@ -1,5 +1,5 @@
 <template>
-	<div class="container">
+	<div class="container pb-5">
 		<component :is="dynamicComponent" />
 	</div>
 </template>
@@ -8,7 +8,7 @@
 export default {
 	head() {
 		return {
-			title: `${this.course.code} - ${this.course.title}`
+			title: `${this.course.title} | Syllabus, Course Objective, Notes, Reference and more!`
 		}
 	},
 	data() {
@@ -17,7 +17,7 @@ export default {
 			course: null
 		}
 	},
-    created () {
+    created() {
 		const post = require(`~/contents/courses/${this.$route.params.course}.md`)
 		const newData = {};
 		for (const attr of Object.keys(post.attributes)) newData[attr] = post.attributes[attr];
@@ -32,8 +32,22 @@ export default {
 h1, h2, h3, h4 {
 	padding-bottom: 3rem;
 }
-
 .frontmatter-markdown >>> h1, .frontmatter-markdown >>> h2, .frontmatter-markdown >>> h3 {
 	padding-top: 3rem;
 }
+/*
+.frontmatter-markdown >>> ol {
+    counter-reset: item;
+}
+.frontmatter-markdown >>> ol > li {
+    counter-increment: item;
+}
+.frontmatter-markdown >>> ol ol > li {
+    display: block;
+}
+.frontmatter-markdown >>> ol ol > li:before {
+    content: counters(item, ".") " ";
+    margin-left: -20px;
+	margin-right: 10px;
+}*/
 </style>

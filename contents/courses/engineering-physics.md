@@ -23,30 +23,30 @@ To provide the concept and knowledge of physics with the emphasis of present day
 	3. Ultrasound and its applications
 4. **Physical Optics**
 	1. Interference
-		- Intensity in double slit interference
-		- Interference in thin films
-		- Newton's ring
-		- Hadinger fringes
+		1. Intensity in double slit interference
+		2. Interference in thin films
+		3. Newton's ring
+		4. Hadinger fringes
 	2. Diffraction
-		- Fresnel and Farunhoffer's diffraction
-		- Intensity dur to a single slit
-		- Diffraction grating
-		- X-ray diffraction, x-ray for material test
+		1. Fresnel and Farunhoffer's diffraction
+		2. Intensity dur to a single slit
+		3. Diffraction grating
+		4. X-ray diffraction, x-ray for material test
 	3. **Polarization**
-		- Double refreaction
-		- Nichol prism, wave plates
-		- Optical activity, specific rotation
+		1. Double refreaction
+		2. Nichol prism, wave plates
+		3. Optical activity, specific rotation
 5. **Geometrical Optics**
 	1. Lenses, combination of lenses
 	2. Cardinal points
 	3. Chromatic aberration
 6. **Laser and Fiber Optics**
 	1. Laser production
-		- He-Ne laser
-		- Uses of laser
+		1. He-Ne laser
+		2. Uses of laser
 	2. Fiber Optics
-		- Self focusing
-		- Applications of optical fiber
+		1. Self focusing
+		2. Applications of optical fiber
 7. **Electrostatics**
 	1. Electric charge and force
 	2. Electric field nad potential
@@ -55,17 +55,17 @@ To provide the concept and knowledge of physics with the emphasis of present day
 	5. Charging and discharging of capacitor
 8. **Electromagnetism**
 	1. Direct Current: Electric current
-		- Ohm's law, resistance and resistivity
-		- Semiconductor and superconductor
+		1. Ohm's law, resistance and resistivity
+		2. Semiconductor and superconductor
 	2. Magnetic fields:
-		- Magnetic forace and Torque
-		- Hall effect
-		- Cyclotron, synchrotron
-		- Biot-Savart law
-		- Ampere's circuit law; magnetic fields straight conductors
-		- Faraday's law, Induction and energy transformation, induced field
-		- LR circuit, induced magnetic field
-		- Displacement current
+		1. Magnetic forace and Torque
+		2. Hall effect
+		3. Cyclotron, synchrotron
+		4. Biot-Savart law
+		5. Ampere's circuit law; magnetic fields straight conductors
+		6. Faraday's law, Induction and energy transformation, induced field
+		7. LR circuit, induced magnetic field
+		8. Displacement current
 9. **Electromagnetic waves**
 	1. Maxwell's equations
 	2. Wave equations, speed

@@ -13,23 +13,23 @@ Scope about this depart goes here...
 Here is the list of courses to be studies under the Bachelor's degree in Civil Engineering listed for every year and every part.
 
 #### 1st Year 1st Part
-- <n-link to="/SH401">Engineering Mathematics I</n-link>
-- <n-link to="/CT401">Computer Programming</n-link>
-- <n-link to="/ME401">Engineering Drawing I</n-link>
-- Engineering Chemistry
-- Fundamental of Thermodynamics and Heat Transfer
-- Workshop Technology
+- <n-link to="/engineering-mathematics-i">Engineering Mathematics I</n-link>
+- <n-link to="/computer-programming">Computer Programming</n-link>
+- <n-link to="/engineering-drawing-i">Engineering Drawing I</n-link>
+- <n-link to="/engineering-chemistry">Engineering Chemistry</n-link>
+- <n-link to="/fundamental-of-thermodynamics-and-heat-transfer">Fundamental of Thermodynamics and Heat Transfer</n-link>
+- <n-link to="/workshop-technology">Workshop Technology</n-link>
 
 #### 1st Year 2nd Part
-- Engineering Mathematics II
-- Engineering Drawing II
-- Basic Electronics Engineering
-- <n-link to="/SH452">Engineering Physics</n-link>
-- <n-link to="/CE451">Applied Mechanics</n-link>
-- <n-link to="/EE451">Basic Electrical Engineering</n-link>
+- <n-link to="/engineering-mathematics-ii">Engineering Mathematics II</n-link>
+- <n-link to="/engineering-drawing-ii">Engineering Drawing II</n-link>
+- <n-link to="/basic-electronics-engineering">Basic Electronics Engineering</n-link>
+- <n-link to="/engineering-physics">Engineering Physics</n-link>
+- <n-link to="/applied-mechanics">Applied Mechanics</n-link>
+- <n-link to="/basic-electrical-engineering">Basic Electrical Engineering</n-link>
 
 #### 2nd Year 1st Part
-- <n-link to="/SH501">Engineering Mathematics III</n-link>
+- <n-link to="/engineering-mathematics-iii">Engineering Mathematics III</n-link>
 - Applied Mechanics (Dynamics)
 - Strength of Materials
 - Engineering Geology I
@@ -130,6 +130,6 @@ Here is the list of courses to be studies under the Bachelor's degree in Civil E
 
 <!--
 ## Institues
-Institues offering the course for this facult go here...
+Institues offering the course for this faculty go here...
 Might use the dynamic vue rendering for this...
 -->

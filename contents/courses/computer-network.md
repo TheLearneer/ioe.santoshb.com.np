@@ -71,7 +71,9 @@ To understand the concepts of computer networking, functions of different layers
 	8. Securing wireless LANs (WEP)
 	9. Firewalls: Application Gateway and Packet Filtering, and IDS
 
+<!--
 ## Notes
 - <n-link to="introduction-to-computer-network" append>Introduction to Computer Network</n-link>
 - <n-link to="physical-layer" append>Physical Layer</n-link>
 - <n-link to="network-security" append>Network Security</n-link>
+-->

@@ -5,7 +5,7 @@
 - Interface: Between the device and medium
 - Line configuration: Connects device with the medium, point to point or multipoint configuration
 - Topology: How the devices are connected to form the network. E.g. Ring, Star, Mesh, Bus
-  <b-img src="https://systemzone.net/wp-content/uploads/2017/09/network-topology.png" alt="network topologies" align="center" />
+  <b-img fluid src="https://systemzone.net/wp-content/uploads/2017/09/network-topology.png" alt="network topologies" align="center" />
 
 ## Network Monitoring
 1. **Delay**  
@@ -31,7 +31,7 @@ They use cabling system that guides the data signal along a specific part. They 
 1. **Twisted Pair Cable**  
    It is the type of wiring which consists of two insulated copper wire twisted together for the purpose of cancelling out electromagnetic interference (EMI) from external sources, for instances electromagnetic radiation from unshielding twisted pair (UTP Cables) and croos talk between neighbouring pairs.
 
-   <b-img src="http://www.nikomax-global.com/media/attachments/cfiles/pages/publication_46/1973_1.jpg" width=600 alt="twisted pair cable" />
+   <b-img fluid src="http://www.nikomax-global.com/media/attachments/cfiles/pages/publication_46/1973_1.jpg" width=600 alt="twisted pair cable" />
 
    The twisting tends to decrease the crosstalk and interference between adjacent pairs in a cable.
    - UTP  
@@ -39,13 +39,13 @@ They use cabling system that guides the data signal along a specific part. They 
    - STP  
       It has a metal foil or braided mesh covering which encases each pair of insulated conductor. Although metal casing improves the quality of cable by precenting the penetration of noise or crosstalk. It is bulkier and more expensive
 
-   <b-img src="http://www.chinacablesbuy.com/wp-content/uploads/2015/05/unshielded-Twisted-pair-cable-and-shielded-twisted-pair-cable.jpg" alt="UTP vs STP twisted pair" class="pt-4 pb-4" />
+   <b-img fluid src="http://www.chinacablesbuy.com/wp-content/uploads/2015/05/unshielded-Twisted-pair-cable-and-shielded-twisted-pair-cable.jpg" alt="UTP vs STP twisted pair" class="pt-4 pb-4" />
 
 ---
 2. **Coaxial Cable**  
    It consists of two conductors that are parallel to each other. Copper is used as central conductor that can be a solid wire or a standard one. It is surrounded by PVC insulation, a sheath that is encased in an outer conductor of metal foil, braid or both. The outer conductor is also encased in an insulating sheath. Outermost part is a plastic cover which protects the whole cable.
    
-   <b-img src="http://ecomputernotes.com/images/Coaxial-Cable.jpg" alt="Coaxial cable" class="pb-4 pt-4" />
+   <b-img fluid src="http://ecomputernotes.com/images/Coaxial-Cable.jpg" alt="Coaxial cable" class="pb-4 pt-4" />
    
    **Types:**
    - Thicknet
@@ -73,7 +73,7 @@ They use cabling system that guides the data signal along a specific part. They 
 3. **Fiber Optics Cable**
    It is a thin flexible medium made up of plastic or glass and is capable of transmitting signal in the form of light. It is designed to pass specific type of light waves over long distance with very less attenuation (loss of signal over long distance)
    
-   <b-img src="https://www.researchgate.net/profile/Oussama_Messai/publication/332183333/figure/fig11/AS:743735042252806@1554331660896/Fiber-Optic-cable-components.jpg" alt="Fiber optics cable" class="pb-4 pt-4" />
+   <b-img fluid src="https://www.researchgate.net/profile/Oussama_Messai/publication/332183333/figure/fig11/AS:743735042252806@1554331660896/Fiber-Optic-cable-components.jpg" alt="Fiber optics cable" class="pb-4 pt-4" />
    
    It has a cylindrical shape and consists of 3 concentric centres
    - Core
@@ -141,4 +141,4 @@ It is a type of propagation that can transmit and receive data only where receiv
 
 Here very high frequency signals are transmitted in straight line directly from antenna to antenna. Antenna must be bidirectional facing each other either tall enough or close enough together not to be affected by the curvature of earth. Long distance communication is more effective through wireless network but geographical obstacles and curvature of earth brings limitation to line of sight propagation.
 
-<b-img src="http://3.bp.blogspot.com/-n8p8sQ16JJE/UE8oXvlUhPI/AAAAAAAAAEA/Q4ArO8RnuG4/s400/LOS.png" alt="Line of sight propagation" />
+<b-img fluid src="http://3.bp.blogspot.com/-n8p8sQ16JJE/UE8oXvlUhPI/AAAAAAAAAEA/Q4ArO8RnuG4/s400/LOS.png" alt="Line of sight propagation" />

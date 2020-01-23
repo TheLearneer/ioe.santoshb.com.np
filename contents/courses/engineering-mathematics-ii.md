@@ -10,8 +10,8 @@ To develop the skill of solving differential equations and to provide knowledge 
 1. **Calculus of two or more variables**
 	1. Introduction: Limit an continuity
 	2. Partial derivatives
-		- Homogenous function, Euler’s theorem for the function of two and three variables
-		- Total derivatives
+		1. Homogenous function, Euler’s theorem for the function of two and three variables
+		2. Total derivatives
 	3. Extrema of functions of two and three variables: Lagrange’s Multiplier 
 2. **Multiple Integrals**
 	1. Introduction
