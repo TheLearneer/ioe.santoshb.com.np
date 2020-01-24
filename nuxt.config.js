@@ -21,7 +21,9 @@ export default {
   buildModules: [],
   modules: [
     'bootstrap-vue/nuxt',
-    '@nuxtjs/sitemap'
+    '@nuxtjs/sitemap',
+	'@nuxtjs/axios',
+	'@nuxtjs/auth'
   ],
   build: {
     extend (config, ctx) {
@@ -44,6 +46,15 @@ export default {
   sitemap: {
     hostname: 'https://ioe.santoshb.com.np',
 	routes: getRoutes()
+  },
+  // Auth config...
+  auth: {
+	strategies: {
+      github: {
+        client_id: '34589f1f8b4739cae3e7',
+        client_secret: 'a9db29e397d2870198c250f4a65b6611d3f22550'
+      },
+	}
   }
 }
 
