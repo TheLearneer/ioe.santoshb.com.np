@@ -42,13 +42,13 @@ Here is the list of courses to be studies under the Bachelor's degree in Compute
 - <n-link to="/electromagnetics">Electromagnetics</n-link>
 
 #### 2nd Year 2nd Part
-- <n-link to="applied-mathematics">Applied Mathematics</n-link>
-- Numerical Methods
-- Instrumentation I
-- Electrical Machines
-- Discrete Structure
-- Data Structure and Algorithm
-- Microprocessor
+- <n-link to="/applied-mathematics">Applied Mathematics</n-link>
+- <n-link to="/numerical-methods">Numerical Methods</n-link>
+- <n-link to="/instrumentation-i">Instrumentation I</n-link>
+- <n-link to="/electrical-machines">Electrical Machines</n-link>
+- <n-link to="/discrete-structure">Discrete Structure</n-link>
+- <n-link to="/data-structure-and-alogrithms">Data Structure and Algorithm</n-link>
+- <n-link to="/microprocessors">Microprocessor</n-link>
 
 #### 3rd Year 1st Part
 - Communication English
